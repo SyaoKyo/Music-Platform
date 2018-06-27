@@ -63,7 +63,7 @@
     <string name="timer_cancel">定时停止播放已取消</string>
     <string name="share_app">青春，狂热，放纵，自由，当我们带上耳机以后做回自己，这是音乐的魅力。%s：http://fir.im/ponymusic</string>
     <string name="copyright">Copyright © 2015&#045;%d SWUST</string>
-    <string name="about_project_url">https://github.com/SyaoKyo</string>
+    <string name="about_project_url">https://github.com/SyaoKyo/Music-Platform</string>
     <string name="about_github1">https://github.com/SyaoKyo</string>
     <string name="about_github2">https://github.com/zhaoxuyan</string>
     <string name="music_info">歌曲信息</string>
