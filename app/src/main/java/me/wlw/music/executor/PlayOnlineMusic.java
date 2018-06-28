@@ -14,7 +14,7 @@ import me.wlw.music.utils.FileUtils;
 
 /**
  * 播放在线音乐
- * Created by wlw on 2016/1/3.
+ * Created by wlw on 2018/6/3.
  */
 public abstract class PlayOnlineMusic extends PlayMusic {
     private OnlineMusic mOnlineMusic;

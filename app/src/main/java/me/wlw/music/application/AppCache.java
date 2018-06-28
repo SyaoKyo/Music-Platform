@@ -21,7 +21,7 @@ import me.wlw.music.utils.ScreenUtils;
 import me.wlw.music.utils.ToastUtils;
 
 /**
- * Created by hzwangchenyan on 2016/11/23.
+ * Created by zxy/ztp on 2018/61/23.
  */
 public class AppCache {
     private Context mContext;

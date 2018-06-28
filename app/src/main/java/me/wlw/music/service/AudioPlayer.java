@@ -21,7 +21,7 @@ import me.wlw.music.storage.preference.Preferences;
 import me.wlw.music.utils.ToastUtils;
 
 /**
- * Created by hzwangchenyan on 2018/1/26.
+ * Created by zxy/ztp on 2018/6/26.
  */
 public class AudioPlayer {
     private static final int STATE_IDLE = 0;

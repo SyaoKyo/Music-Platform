@@ -11,7 +11,7 @@ import me.wlw.music.utils.NetworkUtils;
 import me.wlw.music.storage.preference.Preferences;
 
 /**
- * Created by hzwangchenyan on 2017/1/20.
+ * Created by zxy/ztp on 2017/1/20.
  */
 public abstract class PlayMusic implements IExecutor<Music> {
     private Activity mActivity;

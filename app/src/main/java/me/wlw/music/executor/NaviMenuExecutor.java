@@ -16,7 +16,7 @@ import me.wlw.music.utils.ToastUtils;
 
 /**
  * 导航菜单执行器
- * Created by hzwangchenyan on 2016/1/14.
+ * Created by zxy/ztp on 2018/6/14.
  */
 public class NaviMenuExecutor {
     private MusicActivity activity;

@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * JavaBean
- * Created by hzwangchenyan on 2016/1/13.
+ * Created by zxy/ztp on 2018/6/13.
  */
 public class SearchMusic {
     @SerializedName("song")

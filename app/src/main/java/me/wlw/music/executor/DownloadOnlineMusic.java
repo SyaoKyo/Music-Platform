@@ -15,7 +15,7 @@ import me.wlw.music.http.HttpClient;
 
 /**
  * 下载音乐
- * Created by wlw on 2016/1/3.
+ * Created by wlw on 2018/6/3.
  */
 public abstract class DownloadOnlineMusic extends DownloadMusic {
     private OnlineMusic mOnlineMusic;

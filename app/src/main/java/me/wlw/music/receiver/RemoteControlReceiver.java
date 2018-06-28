@@ -10,7 +10,7 @@ import me.wlw.music.service.AudioPlayer;
 
 /**
  * 耳机线控，仅在5.0以下有效，5.0以上被{@link MediaSessionCompat}接管。
- * Created by hzwangchenyan on 2016/1/21.
+ * Created by zxy/ztp on 2018/6/21.
  */
 public class RemoteControlReceiver extends BroadcastReceiver {
 

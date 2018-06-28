@@ -1,7 +1,7 @@
 package me.wlw.music.executor;
 
 /**
- * Created by hzwangchenyan on 2017/8/11.
+ * Created by zxy/ztp on 2017/8/11.
  */
 public class DownloadMusicInfo {
     private String title;

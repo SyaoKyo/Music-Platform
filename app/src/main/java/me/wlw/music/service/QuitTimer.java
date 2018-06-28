@@ -9,7 +9,7 @@ import me.wlw.music.application.AppCache;
 import me.wlw.music.constants.Actions;
 
 /**
- * Created by hzwangchenyan on 2017/8/8.
+ * Created by zxy/ztp on 2017/8/8.
  */
 public class QuitTimer {
     private Context context;

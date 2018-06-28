@@ -9,7 +9,7 @@ import me.wlw.music.storage.db.greendao.DaoSession;
 import me.wlw.music.storage.db.greendao.MusicDao;
 
 /**
- * Created by wlw on 2018/1/27.
+ * Created by wlw on 2018/6/27.
  */
 public class DBManager {
     private static final String DB_NAME = "database";

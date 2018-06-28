@@ -8,7 +8,7 @@ import me.wlw.music.service.AudioPlayer;
 
 /**
  * 来电/耳机拔出时暂停播放
- * Created by wlw on 2016/1/23.
+ * Created by wlw on 2018/6/23.
  */
 public class NoisyAudioStreamReceiver extends BroadcastReceiver {
 

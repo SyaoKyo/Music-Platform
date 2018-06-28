@@ -2,7 +2,7 @@ package me.wlw.music.constants;
 
 /**
  * Extras
- * Created by hzwangchenyan on 2015/12/25.
+ * Created by zxy/ztp on 2015/12/25.
  */
 public interface Extras {
     String EXTRA_NOTIFICATION = "me.wlw.music.notification";

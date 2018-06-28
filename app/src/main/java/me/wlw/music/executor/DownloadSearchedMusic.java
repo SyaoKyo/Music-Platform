@@ -14,7 +14,7 @@ import me.wlw.music.utils.FileUtils;
 
 /**
  * 下载搜索的音乐
- * Created by hzwangchenyan on 2016/1/13.
+ * Created by zxy/ztp on 2018/6/13.
  */
 public abstract class DownloadSearchedMusic extends DownloadMusic {
     private SearchMusic.Song mSong;

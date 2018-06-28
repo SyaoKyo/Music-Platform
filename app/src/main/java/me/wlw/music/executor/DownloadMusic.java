@@ -16,7 +16,7 @@ import me.wlw.music.utils.NetworkUtils;
 import me.wlw.music.utils.ToastUtils;
 
 /**
- * Created by hzwangchenyan on 2017/1/20.
+ * Created by zxy/ztp on 2017/1/20.
  */
 public abstract class DownloadMusic implements IExecutor<Void> {
     private Activity mActivity;

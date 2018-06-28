@@ -16,7 +16,7 @@ import me.wlw.music.application.AppCache;
 import me.wlw.music.model.Music;
 /**
  * 文件工具类
- * Created by wlw on 2016/1/3.
+ * Created by wlw on 2018/6/3.
  */
 public class FileUtils {
     private static final String MP3 = ".mp3";

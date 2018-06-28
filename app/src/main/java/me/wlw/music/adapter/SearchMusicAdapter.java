@@ -16,7 +16,7 @@ import me.wlw.music.utils.binding.ViewBinder;
 
 /**
  * 搜索结果适配器
- * Created by hzwangchenyan on 2016/1/13.
+ * Created by zxy/ztp on 2018/6/13.
  */
 public class SearchMusicAdapter extends BaseAdapter {
     private List<SearchMusic.Song> mData;

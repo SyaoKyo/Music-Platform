@@ -11,7 +11,7 @@ import me.wlw.music.utils.ToastUtils;
 
 /**
  * 分享在线歌曲
- * Created by hzwangchenyan on 2016/1/13.
+ * Created by zxy/ztp on 2018/6/13.
  */
 public abstract class ShareOnlineMusic implements IExecutor<Void> {
     private Context mContext;

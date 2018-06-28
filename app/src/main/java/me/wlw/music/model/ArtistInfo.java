@@ -4,7 +4,7 @@ import com.google.gson.annotations.SerializedName;
 
 /**
  * JavaBean
- * Created by hzwangchenyan on 2016/1/11.
+ * Created by zxy/ztp on 2018/6/11.
  */
 public class ArtistInfo {
     // 星座

@@ -6,7 +6,7 @@ import me.wlw.music.enums.LoadStateEnum;
 
 /**
  * 视图工具类
- * Created by hzwangchenyan on 2016/1/14.
+ * Created by zxy/ztp on 2018/6/14.
  */
 public class ViewUtils {
     public static void changeViewState(View success, View loading, View fail, LoadStateEnum state) {

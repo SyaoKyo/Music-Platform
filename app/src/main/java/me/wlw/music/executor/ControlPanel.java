@@ -18,7 +18,7 @@ import me.wlw.music.utils.binding.Bind;
 import me.wlw.music.utils.binding.ViewBinder;
 
 /**
- * Created by hzwangchenyan on 2018/1/26.
+ * Created by zxy/ztp on 2018/6/26.
  */
 public class ControlPanel implements View.OnClickListener, OnPlayerEventListener {
     @Bind(R.id.iv_play_bar_cover)
