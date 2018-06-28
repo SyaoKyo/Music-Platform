@@ -8,7 +8,7 @@ import me.wlw.music.storage.db.DBManager;
 
 /**
  * 自定义Application
- * Created by wlw on 2015/11/27.
+ * Created by wlw on 2018/6/27.
  */
 public class MusicApplication extends Application {
 

@@ -21,7 +21,7 @@ import okhttp3.Call;
 import okhttp3.OkHttpClient;
 
 /**
- * Created by zxy/ztp on 2017/2/8.
+ * Created by zxy/ztp on 2018/6/8.
  */
 public class HttpClient {
     private static final String SPLASH_URL = "http://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1";

@@ -11,7 +11,7 @@ import me.wlw.music.utils.ScreenUtils;
 
 /**
  * 播放页Indicator
- * Created by wlw on 2015/11/30.
+ * Created by wlw on 2018/6/30.
  */
 public class IndicatorLayout extends LinearLayout {
     public IndicatorLayout(Context context) {

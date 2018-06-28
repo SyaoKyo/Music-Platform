@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * 歌单信息
- * Created by wlw on 2015/12/20.
+ * Created by wlw on 2018/6/20.
  */
 public class SheetInfo implements Serializable {
     private String title;

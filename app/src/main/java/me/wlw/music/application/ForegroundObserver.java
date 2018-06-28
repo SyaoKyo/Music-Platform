@@ -12,7 +12,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by zxy/ztp on 2017/9/20.
+ * Created by zxy/ztp on 2018/6/20.
  */
 public class ForegroundObserver implements Application.ActivityLifecycleCallbacks {
     private static final String TAG = "ForegroundObserver";

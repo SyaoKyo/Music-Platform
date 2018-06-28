@@ -5,7 +5,7 @@ import android.widget.Toast;
 
 /**
  * Toast工具类
- * Created by wlw on 2015/12/26.
+ * Created by wlw on 2018/6/26.
  */
 public class ToastUtils {
     private static Context sContext;

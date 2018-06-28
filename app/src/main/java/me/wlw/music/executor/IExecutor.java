@@ -1,7 +1,7 @@
 package me.wlw.music.executor;
 
 /**
- * Created by zxy/ztp on 2017/1/20.
+ * Created by zxy/ztp on 2018/6/20.
  */
 public interface IExecutor<T> {
     void execute();

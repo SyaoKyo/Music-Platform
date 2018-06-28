@@ -14,7 +14,7 @@ import me.wlw.music.utils.binding.ViewBinder;
 
 /**
  * 基类<br>
- * Created by wlw on 2015/11/26.
+ * Created by wlw on 2018/6/26.
  */
 public abstract class BaseFragment extends Fragment {
     protected Handler handler;

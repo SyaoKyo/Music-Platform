@@ -20,7 +20,7 @@ import me.wlw.music.utils.binding.ViewBinder;
 
 /**
  * 本地音乐列表适配器
- * Created by wlw on 2015/11/27.
+ * Created by wlw on 2018/6/27.
  */
 public class PlaylistAdapter extends BaseAdapter {
     private List<Music> musicList;

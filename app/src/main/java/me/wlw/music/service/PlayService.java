@@ -13,7 +13,7 @@ import me.wlw.music.constants.Actions;
 
 /**
  * 音乐播放后台服务
- * Created by wlw on 2015/11/27.
+ * Created by wlw on 2018/6/27.
  */
 public class PlayService extends Service {
     private static final String TAG = "Service";

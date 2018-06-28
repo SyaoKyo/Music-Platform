@@ -19,7 +19,7 @@ import me.wlw.music.model.Music;
 
 /**
  * 专辑封面图片加载器
- * Created by wlw on 2015/11/27.
+ * Created by wlw on 2018/6/27.
  */
 public class CoverLoader {
     public static final int THUMBNAIL_MAX_LENGTH = 500;

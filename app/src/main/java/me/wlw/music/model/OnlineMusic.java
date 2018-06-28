@@ -4,7 +4,7 @@ import com.google.gson.annotations.SerializedName;
 
 /**
  * JavaBean
- * Created by wlw on 2015/12/20.
+ * Created by wlw on 2018/6/20.
  */
 public class OnlineMusic {
     @SerializedName("pic_big")

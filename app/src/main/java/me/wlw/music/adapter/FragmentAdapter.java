@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  * Fragment适配器
- * Created by wlw on 2015/11/26.
+ * Created by wlw on 2018/6/26.
  */
 public class FragmentAdapter extends FragmentPagerAdapter {
     private final List<Fragment> mFragments = new ArrayList<>();

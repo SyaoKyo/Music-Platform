@@ -18,7 +18,7 @@ import me.wlw.music.utils.ImageUtils;
 
 /**
  * 专辑封面
- * Created by wlw on 2015/11/30.
+ * Created by wlw on 2018/6/30.
  */
 public class AlbumCoverView extends View implements ValueAnimator.AnimatorUpdateListener {
     private static final long TIME_UPDATE = 50L;

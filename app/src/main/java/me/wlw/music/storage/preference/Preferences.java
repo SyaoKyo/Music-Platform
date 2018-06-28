@@ -9,7 +9,7 @@ import me.wlw.music.R;
 
 /**
  * SharedPreferences工具类
- * Created by wlw on 2015/11/28.
+ * Created by wlw on 2018/6/28.
  */
 public class Preferences {
     private static final String PLAY_POSITION = "play_position";

@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * JavaBean
- * Created by wlw on 2015/12/20.
+ * Created by wlw on 2018/6/20.
  */
 public class OnlineMusicList {
     @SerializedName("song_list")

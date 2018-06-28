@@ -46,7 +46,7 @@ import me.wlw.music.widget.IndicatorLayout;
 
 /**
  * 正在播放界面
- * Created by wlw on 2015/11/27.
+ * Created by wlw on 2018/6/27.
  */
 public class PlayFragment extends BaseFragment implements View.OnClickListener,
         ViewPager.OnPageChangeListener, SeekBar.OnSeekBarChangeListener, OnPlayerEventListener,

@@ -2,7 +2,7 @@ package me.wlw.music.enums;
 
 /**
  * 播放模式
- * Created by wlw on 2015/12/26.
+ * Created by wlw on 2018/6/26.
  */
 public enum PlayModeEnum {
     LOOP(0),

@@ -12,7 +12,7 @@ import java.io.Serializable;
 
 /**
  * 单曲信息
- * Created by wlw on 2015/11/27.
+ * Created by wlw on 2018/6/27.
  */
 @Entity(nameInDb = "SystemMessage")
 public class Music implements Serializable {

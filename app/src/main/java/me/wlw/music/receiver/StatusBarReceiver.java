@@ -8,7 +8,7 @@ import android.text.TextUtils;
 import me.wlw.music.service.AudioPlayer;
 
 /**
- * Created by wlw on 2017/4/18.
+ * Created by wlw on 2018/6/18.
  */
 public class StatusBarReceiver extends BroadcastReceiver {
     public static final String ACTION_STATUS_BAR = "me.wlw.music.STATUS_BAR_ACTIONS";//*****

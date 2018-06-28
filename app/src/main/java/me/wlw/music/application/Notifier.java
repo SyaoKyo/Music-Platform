@@ -27,7 +27,7 @@ import me.wlw.music.utils.CoverLoader;
 import me.wlw.music.utils.FileUtils;
 
 /**
- * Created by wlw on 2017/4/18.
+ * Created by wlw on 2018/6/18.
  */
 public class Notifier {
     private static final int NOTIFICATION_ID = 0x111;

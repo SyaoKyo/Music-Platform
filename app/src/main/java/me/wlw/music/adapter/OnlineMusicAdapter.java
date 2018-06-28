@@ -19,7 +19,7 @@ import me.wlw.music.utils.binding.ViewBinder;
 
 /**
  * 在线音乐列表适配器
- * Created by wlw on 2015/12/22.
+ * Created by wlw on 2018/6/22.
  */
 public class OnlineMusicAdapter extends BaseAdapter {
     private List<OnlineMusic> mData;

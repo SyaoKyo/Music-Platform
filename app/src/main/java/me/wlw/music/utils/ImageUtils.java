@@ -17,7 +17,7 @@ import me.wlw.music.constants.RequestCode;
 
 /**
  * 图像工具类
- * Created by wlw on 2015/11/29.
+ * Created by wlw on 2018/6/29.
  */
 public class ImageUtils {
     private static final int BLUR_RADIUS = 50;

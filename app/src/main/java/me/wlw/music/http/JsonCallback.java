@@ -9,7 +9,7 @@ import okhttp3.Response;
 
 /**
  * Json封装
- * Created by wlw on 2015/12/20.
+ * Created by wlw on 2018/6/20.
  */
 public abstract class JsonCallback<T> extends Callback<T> {
     private Class<T> clazz;

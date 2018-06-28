@@ -9,7 +9,7 @@ import okhttp3.Request;
 import okhttp3.Response;
 
 /**
- * Created by zxy/ztp on 2017/3/30.
+ * Created by zxy/ztp on 2018/6/30.
  */
 public class HttpInterceptor implements Interceptor {
     private static final String UA = "User-Agent";

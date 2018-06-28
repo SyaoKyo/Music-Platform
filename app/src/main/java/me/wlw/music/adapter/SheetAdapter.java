@@ -25,7 +25,7 @@ import me.wlw.music.http.HttpClient;
 
 /**
  * 歌单列表适配器
- * Created by wlw on 2015/12/19.
+ * Created by wlw on 2018/6/19.
  */
 public class SheetAdapter extends BaseAdapter {
     private static final int TYPE_PROFILE = 0;

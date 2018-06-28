@@ -19,7 +19,7 @@ import me.wlw.music.storage.preference.Preferences;
 
 /**
  * 歌曲工具类
- * Created by wlw on 2015/11/27.
+ * Created by wlw on 2018/6/27.
  */
 public class MusicUtils {
     private static final String SELECTION = MediaStore.Audio.AudioColumns.SIZE + " >= ? AND " + MediaStore.Audio.AudioColumns.DURATION + " >= ?";
